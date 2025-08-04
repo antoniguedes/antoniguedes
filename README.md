@@ -10,7 +10,7 @@
 
 
 💼 **Current Role:**  
-I work as a Data Analyst & BI Specialist within the Insurance & Banking Industry, helping companies unlock the power of their data.
+I worked as a Data Analyst & BI Specialist within the Insurance & Banking Industry, but also in Business Intelligence for Construction & Real Estate helping companies unlock the power of their data.
 
 🔍 **Skills & Technologies:**  
 - SQL (MySQL, T-SQL for SAP)
