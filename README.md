@@ -1,23 +1,28 @@
 # 👋 Hi, I'm Antoni Guedes
 
-**Data Analyst & BI Specialist | Across Industries, Insurance & Banking background**
-
+**Data Analyst & BI Specialist, building up skills in Data Engineering |   
+Multiple Domains experience, Insurance & Banking background, Marketing Analytics projects**
 ---
 🎓 **Background:**  
-- Bachelor’s degree in Engineering  
+- Multiple hands-on project based on real business data focused on Data Analytics & Data Engineering
+- Bachelor’s degree in Engineering: Major in Applications for Construction Design & Engineering, Minor in Computer Science & Statistics 
 - Master’s degree in Finance  
-- Multiple courses in Computer Science, Programing, Databases
 
+  
 
 💼 **Current Role:**  
-I worked as a Data Analyst & BI Specialist within the Insurance & Banking Industry, but also in Business Intelligence for Construction & Real Estate helping companies unlock the power of their data.
+I worked as a Data Analyst & BI Specialist within the Insurance & Banking Industry, but also in Business Intelligence for Construction & Real Estate companies, helping them unlock the power of their data.
 
-🔍 **Skills & Technologies:**  
-- SQL (MySQL, T-SQL for SAP)
-- Python (Data Analytics & Data Wrangling)
+🔍 **DA Skills & Technologies:**  
+- SQL (MySQL, T-SQL on Teradata & SAP Business Objects)
+- Python (Data Analytics, Data Wrangling, Data Visualization)
 - PowerBI
 - QlikSense
 
+🔍 **DE Skills & Technologies:**  
+- DSA
+- Snowflake
+- Airflow
 ---
 
 ## 🚀 About Me
