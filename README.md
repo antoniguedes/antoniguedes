@@ -18,6 +18,7 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 - Python (Data Analytics, Data Wrangling, Data Visualization)
 - PowerBI
 - QlikSense
+- Looker Studio
 
 🔍 **DE Skills & Technologies:**  
 - Python for Data Analytics
