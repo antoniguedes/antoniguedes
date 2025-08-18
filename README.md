@@ -22,6 +22,9 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 🔍 **DE Skills & Technologies:**  
 - Python for Data Analytics
 - Azure
+- Google Cloud Platform
+- Google Analytics GA4
+- Google Ads
 more upcoming ---
 
 ## 🚀 About Me
