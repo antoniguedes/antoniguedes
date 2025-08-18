@@ -20,10 +20,9 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 - QlikSense
 
 🔍 **DE Skills & Technologies:**  
-- DSA
-- Snowflake
-- Airflow
----
+- Python for Data Analytics
+- Azure
+more upcoming ---
 
 ## 🚀 About Me
 
