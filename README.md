@@ -15,7 +15,7 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 
 🔍 **DA Skills & Technologies:**  
 - SQL (MySQL, T-SQL on Teradata & SAP Business Objects)
-- Python (Data Analytics, Data Wrangling, Data Visualization)
+- Python (Data Cleaning, Data Wrangling, Data Visualization)
 - PowerBI
 - QlikSense
 - Looker Studio
