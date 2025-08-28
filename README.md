@@ -1,4 +1,4 @@
-# 👋 Welcome to my Data Projects Portfolio - where I grind and breathe Data on my journey
+# 👋 Welcome to my Data Projects Portfolio - where I grind and breathe Data building up new skills on my journey
 
 **Data Analyst & BI Specialist, building up skills in Data Engineering |   
 Multiple Domains experience, Insurance & Banking background, Marketing Analytics projects**
