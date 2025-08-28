@@ -24,9 +24,9 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 - Python for Data Analytics
 - Azure
 - Google Cloud Platform
-- Google Analytics GA4
-- Google Ads
-more upcoming ---
+- Google Analytics GA4 (upcoming)
+- Google Ads (upcoming)
+
 
 ## 🚀 About Me
 
