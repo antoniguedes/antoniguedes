@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antoni Guedes
+# 👋 Welcome to my Data Projects Portfolio - where I grind and breathe Data on my journey
 
 **Data Analyst & BI Specialist, building up skills in Data Engineering |   
 Multiple Domains experience, Insurance & Banking background, Marketing Analytics projects**
@@ -10,7 +10,7 @@ Multiple Domains experience, Insurance & Banking background, Marketing Analytics
 
   
 
-💼 **Current Role:**  
+💼 **Past Roles:**  
 I worked as a Data Analyst & BI Specialist within the Insurance & Banking Industry, but also in Business Intelligence for Construction & Real Estate companies, helping them unlock the power of their data.
 
 🔍 **DA Skills & Technologies:**  
