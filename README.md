@@ -21,11 +21,9 @@ I worked as a Data Analyst & BI Specialist within the Insurance & Banking Indust
 - Looker Studio
 
 🔍 **DE Skills & Technologies:**  
-- Python for Data Analytics
+- Python for Dataflows ETL
 - Azure
 - Google Cloud Platform
-- Google Analytics GA4 (upcoming)
-- Google Ads (upcoming)
 
 
 ## 🚀 About Me
